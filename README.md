@@ -1,2 +1,2 @@
 # OperatingPlatforms
-Repository for my Operating Platforms class at SNHU
+Repository for my CS-230 Operating Platforms class at SNHU
